@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "lancor"]
 	path = lancor
-	url = https://github.com/cran/lancor
+	url = https://github.com/bernhardklar/lancor
 [submodule "tailplots"]
 	path = tailplots
 	url = https://github.com/cran/tailplots
