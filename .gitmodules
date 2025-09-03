@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RobustMetrics"]
+	path = RobustMetrics
+	url = https://github.com/bernhardklar/robustmetrics
 [submodule "lancor"]
 	path = lancor
 	url = https://github.com/bernhardklar/lancor
